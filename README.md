@@ -1,0 +1,2 @@
+# OpenSpec_learn
+此仓库主要用来持续性学习OpenSpec技术
