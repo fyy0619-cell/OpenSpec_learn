@@ -1,0 +1,6 @@
+schema: spec-driven
+
+context: |
+  This repository is a Chinese learning repository for OpenSpec.
+  Focus on beginner-friendly explanations, concrete command examples, and small spec-driven changes.
+  Keep active example changes easy to inspect and validate.
